@@ -38,7 +38,7 @@
         <hibernate.validator.version>6.0.7.Final</hibernate.validator.version>
         <zk.version>8.0.1.1</zk.version>
         <vaadin.version>7.6.4</vaadin.version>
-        <spring-integration.version>4.1.0.RELEASE</spring-integration.version>
+        <spring-integration.version>5.3.2.RELEASE</spring-integration.version>
     </properties>
 
     <dependencyManagement>
